@@ -1,2 +1,2 @@
 # implivmfactory
-This application is created for Understanding ModelView and ModelViewFactory concept implementation.
+This application is an implementation of ModelView and ModelViewFactory concepts
